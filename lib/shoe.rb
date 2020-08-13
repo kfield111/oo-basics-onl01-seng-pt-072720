@@ -8,9 +8,6 @@ class Shoe
 
 def cobble
   puts "Your shoe is as good as new!"
-  def sets_new
-    @condition = new
-  end
 end
 
 end
